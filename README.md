@@ -13,4 +13,4 @@ F2 toggles between a 9600 baud and 300 baud serial io speed
 
 F3 toggles between the PS/2 keyboard layout and the UK101 keyboard layout
 
-F12 reverses the left and right shift keys - useful for playing the Premier Publications invaders game on a PS/2 keyboard.
+F12 reverses the left and right shift keys
